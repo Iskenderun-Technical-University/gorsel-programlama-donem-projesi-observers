@@ -1,0 +1,19 @@
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.csproj.AssemblyReference.cache
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı_dama_oyunu.Form1.resources
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı_dama_oyunu.Properties.Resources.resources
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.csproj.GenerateResource.cache
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.AssemblyInfoInputs.cache
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.AssemblyInfo.cs
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.csproj.CoreCompileInputs.cache
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.exe
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.deps.json
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.runtimeconfig.json
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.runtimeconfig.dev.json
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.dll
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\takımlı dama oyunu.pdb
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.csproj.CopyComplete
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.dll
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.pdb
+C:\Users\MEHMETSULTAN ZENGİN\Source\Repos\takımlı dama oyunu\takımlı dama oyunu\obj\Debug\netcoreapp3.1\takımlı dama oyunu.genruntimeconfig.cache

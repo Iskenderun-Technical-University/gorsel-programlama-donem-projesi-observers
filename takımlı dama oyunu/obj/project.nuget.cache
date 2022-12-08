@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tu/RiMXDXIlC2zvSD0repZAoM6RywScunEN5BvoOm/yhRj1hGcECjQQKRQIHOGzEZszPkKA7INzcCF4by3QSXg==",
+  "success": true,
+  "projectFilePath": "E:\\takimli_dama\\gorsel-programlama-donem-projesi-observers\\takımlı dama oyunu\\takımlı dama oyunu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MEHMETSULTAN ZENGİN\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
